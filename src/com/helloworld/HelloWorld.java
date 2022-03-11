@@ -12,6 +12,7 @@ public class HelloWorld {
 		System.out.println(cl.getId());
 		System.out.println(cl.getDescricao());
 		
+		System.out.println("esse é o arquivo master");
 	}
 
 }
